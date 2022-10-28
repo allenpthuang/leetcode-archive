@@ -2,4 +2,6 @@
 !.gitignore
 !README.md
 !*.cpp
-!*/
+!*.py
+!*.c
+
